@@ -1,8 +1,16 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner-light.svg"/>
-    <img src="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner.svg" alt="Catalina Lino" width="100%"/>
+ <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner.svg?v=2"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner-light.svg?v=2"/>
+    <img src="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner.svg?v=2" alt="Catalina Lino" width="100%"/>
+  </picture>
+</p>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner-light.svg?v=2"/>
+    <img src="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner.svg?v=2" alt="Catalina Lino" width="100%"/>
+  </picture>
+</p>
   </picture>
 </p>
 <p align="center">
