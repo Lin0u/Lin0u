@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner.svg?v=3"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner-light.svg?v=3"/>
-    <img src="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner.svg?v=3" alt="Catalina Lino" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner.svg?v=4"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner-light.svg?v=4"/>
+    <img src="https://raw.githubusercontent.com/Lin0u/Lin0u/main/assets/banner-light.svg?v=4" alt="Catalina Lino" width="100%"/>
   </picture>
 </p>
 
